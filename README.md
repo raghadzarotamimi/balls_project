@@ -32,7 +32,7 @@ int main() {
         
         else{
 
-        for(int j=0, k=1; j <= (int)balls.size() && k <= (int)balls.size();){ \\ Should be edites soon
+        for(int j=0, k=1; j <= (int)balls.size() && k <= (int)balls.size();){ // Should be edites soon
          
          if(balls[j] == balls[k]){
 
